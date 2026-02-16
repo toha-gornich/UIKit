@@ -1,14 +1,14 @@
 //
-//  UIKitLifecycleLabTests.swift
-//  UIKitLifecycleLabTests
+//  UiKitTests.swift
+//  UiKitTests
 //
-//  Created by Горніч Антон on 13.02.2026.
+//  Created by Горніч Антон on 16.02.2026.
 //
 
 import XCTest
-@testable import UIKitLifecycleLab
+@testable import UiKit
 
-final class UIKitLifecycleLabTests: XCTestCase {
+final class UiKitTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

@@ -1,13 +1,13 @@
 //
-//  UIKitLifecycleLabUITestsLaunchTests.swift
-//  UIKitLifecycleLabUITests
+//  UiKitUITestsLaunchTests.swift
+//  UiKitUITests
 //
-//  Created by Горніч Антон on 13.02.2026.
+//  Created by Горніч Антон on 16.02.2026.
 //
 
 import XCTest
 
-final class UIKitLifecycleLabUITestsLaunchTests: XCTestCase {
+final class UiKitUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
